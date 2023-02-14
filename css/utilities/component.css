@@ -1,0 +1,26 @@
+.container {
+  max-width: 1440px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.btn {
+  /* TODO: Implementar estilo do botão */
+}
+
+.btn:hover {
+  /* TODO: Implementar estilo do hover do botão */
+}
+
+.menu-link:hover {
+  /* TODO: Implementar estilo do hover do link menu */
+}
+
+.content-link::after {
+  /* TODO: Implementar estilo do after link */
+}
+
+.content-link:hover::after {
+  /* TODO: Implementar estilo do hover no after link */
+}

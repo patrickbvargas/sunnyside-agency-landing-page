@@ -1,0 +1,83 @@
+:root {
+  --fnt-family-1: "Fraunces 9pt Soft";
+  --fnt-family-2: "Barlow";
+}
+
+/* Font 1 */
+
+.fnt-1-2xs {
+  font: 700 0.9375rem/1.66 var(--fnt-family-1), sans-serif;
+  letter-spacing: -0.11px;
+  text-transform: uppercase;
+}
+
+.fnt-1-xs {
+  font: 900 0.9375rem/1.66 var(--fnt-family-1), sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.fnt-1-s {
+  font: 900 1rem/1.25 var(--fnt-family-1), sans-serif;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.fnt-1-2s {
+  font: 900 1.125rem/1.22 var(--fnt-family-1), sans-serif;
+  letter-spacing: -0.13px;
+}
+
+.fnt-1-m {
+  font: 900 1.25rem/1.25 var(--fnt-family-1), sans-serif;
+  letter-spacing: 5px;
+}
+
+.fnt-1-2m {
+  font: 900 1.75rem/1.25 var(--fnt-family-1), sans-serif;
+  letter-spacing: -0.2px;
+}
+
+.fnt-1-3m {
+  font: 900 2rem/1.25 var(--fnt-family-1), sans-serif;
+  letter-spacing: -0.23px;
+}
+
+.fnt-1-l {
+  font: 900 2.5rem/1.25 var(--fnt-family-1), sans-serif;
+  letter-spacing: -0.29px;
+}
+
+.fnt-1-2l {
+  font: 900 2.5rem/1.25 var(--fnt-family-1), sans-serif;
+  letter-spacing: 6.25px;
+  text-transform: uppercase;
+}
+
+.fnt-1-3l {
+  font: 900 3.5rem/1.25 var(--fnt-family-1), sans-serif;
+  letter-spacing: 8.75px;
+  text-transform: uppercase;
+}
+
+/* Font 2 */
+
+.fnt-2-xs {
+  font: 600 0.875rem/1.78 var(--fnt-family-2), sans-serif;
+  letter-spacing: -0.1px;
+}
+
+.fnt-2-s {
+  font: 600 1rem/1.68 var(--fnt-family-2), sans-serif;
+  letter-spacing: -0.11px;
+}
+
+.fnt-2-2s {
+  font: 600 1.125rem/1.77 var(--fnt-family-2), sans-serif;
+  letter-spacing: -0.13px;
+}
+
+.fnt-2-m {
+  font: 600 1.25rem/1.25 var(--fnt-family-2), sans-serif;
+  letter-spacing: -0.14px;
+}
