@@ -4,12 +4,3 @@
   display: block;
   margin: 0 auto;
 }
-
-.attribution {
-  text-align: center;
-  padding: 12px 0;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
