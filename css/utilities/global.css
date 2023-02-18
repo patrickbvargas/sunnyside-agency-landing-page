@@ -1,7 +1,8 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
+  /* border: 1px solid #999; */
 }
 
 ul {
@@ -9,11 +10,14 @@ ul {
 }
 
 a {
+  display: inline-block;
   text-decoration: none;
+  color: inherit;
 }
 
 img {
   max-width: 100%;
   height: auto;
-  display: block; /* ? Qual o impacto deste item */
+  object-fit: cover;
+  display: block;
 }

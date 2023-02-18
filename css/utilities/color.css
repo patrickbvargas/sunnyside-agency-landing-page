@@ -55,6 +55,7 @@
 
 .clr-primary-4-a {
   color: var(--clr-primary-4-a);
+  opacity: 0.75;
 }
 
 .clr-primary-4-b {

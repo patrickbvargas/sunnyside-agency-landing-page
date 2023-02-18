@@ -5,22 +5,11 @@
   margin: 0 auto;
 }
 
-.btn {
-  /* TODO: Implementar estilo do botão */
+.attribution {
+  text-align: center;
+  padding: 12px 0;
 }
 
-.btn:hover {
-  /* TODO: Implementar estilo do hover do botão */
-}
-
-.menu-link:hover {
-  /* TODO: Implementar estilo do hover do link menu */
-}
-
-.content-link::after {
-  /* TODO: Implementar estilo do after link */
-}
-
-.content-link:hover::after {
-  /* TODO: Implementar estilo do hover no after link */
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }

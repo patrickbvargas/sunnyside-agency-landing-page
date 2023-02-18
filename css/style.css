@@ -1,2 +1,10 @@
-@import "./utilities/colors.css";
+@import "./utilities/global.css";
+@import "./utilities/color.css";
 @import "./utilities/typography.css";
+@import "./utilities/component.css";
+
+@import "./header.css";
+@import "./service.css";
+@import "./testimonial.css";
+@import "./gallery.css";
+@import "./footer.css";
