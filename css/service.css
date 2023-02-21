@@ -120,16 +120,6 @@
     max-width: 600px;
     text-align: center;
   }
-
-  .services-secondary-item:nth-child(5) {
-    background: url("../images/mobile/image-graphic-design.jpg") center center
-      no-repeat;
-  }
-
-  .services-secondary-item:nth-child(6) {
-    background: url("../images/mobile/image-photography.jpg") center center
-      no-repeat;
-  }
 }
 
 @media (max-width: 700px) {

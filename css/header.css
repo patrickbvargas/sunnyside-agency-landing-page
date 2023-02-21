@@ -80,7 +80,8 @@
   }
 
   .header-menu {
-    width: 330px;
+    width: calc(100% - 80px);
+    max-width: 330px;
     position: fixed;
     top: 106px;
     right: -100%;
